@@ -79,18 +79,18 @@
     },
 
     {
-        "Name":"Dr. Michel Simaan Badin , MD",
+        "Name":"Dr. Michael Simaan Badin , MD",
         "Speciality":"Hematology / Internal Medicine / Medical Oncology",
         "Number":"(201) 433-4848",
         "Address":"1947 John F Kennedy Blvd",
         "City": "Jersey City",
         "State": "New Jersey",
         "ZIP": "07305",
-        "image":"file:///var/folders/cj/dqvsmsfn6tg5dx67h2mww4fm0000gn/T/TemporaryItems/NSIRD_screencaptureui_HETbLm/Screen%20Shot%202022-06-18%20at%204.01.43%20PM.png"
+        "image":"https://media.discordapp.net/attachments/985367975429296141/987854380218847302/Screen_Shot_2022-06-18_at_7.00.14_PM.jpg"
     },
 
     {
-        "Name":"Simon Badin, MD",
+        "Name":"Dr. Simon Badin, MD",
         "Speciality":"Medical Oncology / Adult Oncology / Adult Hematology",
         "Number":"(201) 433-4848",
         "Address":"1947 John F Kennedy Blvd",
@@ -101,7 +101,7 @@
     },
 
     {
-        "Name":"Mrs. Rini Palathingal MD",
+        "Name":"Dr. Rini Palathingal, MD",
         "Speciality":"Hematologist-Oncologist / Hematology & Oncology",
         "Number":"(201) 963-2213",
         "Address":"210 Palisade Ave",
